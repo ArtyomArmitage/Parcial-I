@@ -1,0 +1,12 @@
+Parte I:
+1. != es un operador relacional que significa “distinto de”. 
+V x F __
+2. En Python, los diccionarios pueden tener claves repetidas sin alterar los valores previos. 
+V __ F x
+3. x Un ciclo for requiere conocer la cantidad de iteraciones de antemano, a diferencia de while. 
+V x F __
+4. Se puede usar break dentro de un ciclo para detener su ejecución inmediatamente. 
+V x F __
+
+Parte II:
+Selecciono la opción "A"
